@@ -5,7 +5,7 @@ Destination: `ebbotrobot/rainmakers-learning-workspace` (public source repositor
 This is not a public hosted instance of the app.
 
 - [x] Owner reviewed the actual UI and authorised a new public repository.
-- [ ] Reuse licence remains an explicit owner choice; none is granted by this checklist.
+- [x] Owner explicitly selected MIT; licence included in the distribution.
 - [x] Reviewed all files in `distribution-files.json`; no inherited Git history.
 - [x] Privacy check, type check, behavior tests and build passed.
 - [x] Reviewed the ZIP's exact file list, not a whole workspace upload.

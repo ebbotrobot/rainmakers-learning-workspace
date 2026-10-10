@@ -1,5 +1,5 @@
 [
-  ".gitignore", "AGENTS.md", "README.md", "START-HERE.md", "RELEASE-CHECKLIST.md", "VALIDATION.md",
+  ".gitignore", "AGENTS.md", "README.md", "START-HERE.md", "RELEASE-CHECKLIST.md", "VALIDATION.md", "LICENSE",
   "package.json", "package-lock.json", "next.config.ts", "next-env.d.ts", "postcss.config.mjs", "tsconfig.json",
   "distribution-files.json",
   "agent-templates/PROJECT.md", "agent-templates/RUNS.md", "agent-templates/HANDOFF.md", "agent-templates/DECISIONS.md", "agent-templates/ARTIFACTS.md",

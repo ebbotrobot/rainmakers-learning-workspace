@@ -133,6 +133,6 @@ not your ignored private data. Before sharing, read `RELEASE-CHECKLIST.md`.
 
 ## Reuse licence
 
-No open-source reuse licence has been selected yet. Public visibility does not
-grant any rights to paid course material or third-party branding. A separate
-licence, when selected by the repository owner, will be added to this repository.
+The workspace code is available under the [MIT licence](LICENSE). Members can
+reuse and adapt it for their own workspaces. Paid course material and third-party
+branding are not included in that licence.

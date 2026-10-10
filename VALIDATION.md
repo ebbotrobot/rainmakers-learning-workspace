@@ -19,7 +19,8 @@ This is the sanitised actual interface, not a replacement design.
 - JSON export endpoint and validated CLI backup/restore round trip passed.
   Previous database files are retained during CLI restore. Test records were
   backed up outside the distribution and removed from the review preview.
-- Distribution privacy scan passes for the explicit 40-file allowlist. Separate
+- Distribution privacy scan passes for the explicit source allowlist (40 files,
+  plus the owner-approved MIT licence added at publication). Separate
   manual source review found no inherited business names, private paths, chat
   IDs, credentials, deployment receipts or course substance. Runtime files,
   screenshots and all existing repository history are excluded.

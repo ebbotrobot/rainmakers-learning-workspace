@@ -1,0 +1,12 @@
+node_modules/
+.next/
+data/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+coverage/
+.DS_Store
+review-evidence/
+.agent/
+*backup*.json

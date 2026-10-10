@@ -1,0 +1,12 @@
+[
+  ".gitignore", "AGENTS.md", "README.md", "START-HERE.md", "RELEASE-CHECKLIST.md", "VALIDATION.md",
+  "package.json", "package-lock.json", "next.config.ts", "next-env.d.ts", "postcss.config.mjs", "tsconfig.json",
+  "distribution-files.json",
+  "agent-templates/PROJECT.md", "agent-templates/RUNS.md", "agent-templates/HANDOFF.md", "agent-templates/DECISIONS.md", "agent-templates/ARTIFACTS.md",
+  "scripts/setup.mjs", "scripts/run-next.mjs", "scripts/workspace.mjs", "scripts/privacy-check.mjs",
+  "src/app/globals.css", "src/app/layout.tsx", "src/app/page.tsx", "src/app/api/workspace/route.ts",
+  "src/app/rainmakers/page.tsx", "src/app/rainmakers/actions.ts", "src/app/rainmakers/error.tsx",
+  "src/app/rainmakers/[slug]/page.tsx", "src/app/rainmakers/[slug]/lesson-codex-chat.tsx",
+  "src/app/rainmakers/content-review/page.tsx", "src/app/rainmakers/execution-sync/page.tsx", "src/app/rainmakers/settings/page.tsx",
+  "src/components.tsx", "src/workspace-nav.tsx", "src/lib/types.ts", "src/lib/model.ts", "src/lib/workspace.ts", "tests/model.test.ts"
+]
